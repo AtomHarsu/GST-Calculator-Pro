@@ -65,7 +65,7 @@ export default function PrivacyPolicy() {
             <h2 className="text-xl font-semibold text-gray-800 mb-3">7. Contact Information</h2>
             <p className="text-gray-700 leading-relaxed">
               If you have any questions about this Privacy Policy, please contact us through the 
-              app's support section.
+              app&apos;s support section.
             </p>
           </section>
         </div>
