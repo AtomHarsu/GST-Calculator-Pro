@@ -27,7 +27,7 @@ export default function Home() {
           <div className="mb-8">
             <div className="inline-flex items-center justify-center w-24 h-24 bg-gradient-to-r from-emerald-400 to-cyan-400 rounded-3xl mb-8 shadow-2xl shadow-emerald-500/25">
               <span className="text-4xl">🧮</span>
-            </div>
+            </div>s
           </div>
           <h2 className="text-7xl font-black text-transparent bg-clip-text bg-gradient-to-r from-white via-emerald-200 to-cyan-200 mb-8 leading-tight">
             Professional GST Calculator
